@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Sofía 👋
 
-<!--
-**sofia067/sofia067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy studiante de Ingeniería de Sistemas e Informatica.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo de software, la tecnología y el análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente estoy fortaleciendo mis conocimientos en programación, Git, GitHub y ciberseguridad.
+
+## 🚀 Mis proyectos
+
+### 1. Andina Market 360
+Proyecto académico orientado a organizar y analizar ventas simuladas mediante Python, Git y GitHub.
+
+### 2. SIPEC-MLA
+Sistema académico orientado a la identificación de perfiles, evaluación de competencias y movilidad laboral administrativa.
+
+## 🛠️ Tecnologías e intereses
+
+- Git y GitHub
+- Python
+- JavaScript
+- Desarrollo de software
+- Ciberseguridad
+
+## 📚 Actualmente aprendiendo
+
+Control de versiones, colaboración mediante GitHub y buenas prácticas de desarrollo.
